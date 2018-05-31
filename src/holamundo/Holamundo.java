@@ -20,6 +20,7 @@ public class Holamundo {
         
 
      JOptionPane.showMessageDialog(null,"hOlA mUnDo xd");
+     JOptionPane.showMessageDialog(null,"hOlA mUnDo xd x2"); 
     }
     
 }
